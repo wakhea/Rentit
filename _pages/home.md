@@ -1,6 +1,6 @@
 ---
 ID: 10
-post_title: lhlhvkb
+post_title: Welcome to RentIt
 author: rentit
 post_excerpt: ""
 layout: page
@@ -9,5 +9,5 @@ published: true
 post_date: 2018-09-23 19:50:47
 ---
 <!-- wp:heading -->
-<h2>vkhmljnùk</h2>
+<h2>Recent listings<br/></h2>
 <!-- /wp:heading -->
