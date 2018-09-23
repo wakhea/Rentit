@@ -4,7 +4,7 @@ post_title: lhlhvkb
 author: rentit
 post_excerpt: ""
 layout: page
-permalink: http://localhost/wordpress/lhlhvkb/
+permalink: http://localhost/wordpress/home/
 published: true
 post_date: 2018-09-23 19:50:47
 ---
